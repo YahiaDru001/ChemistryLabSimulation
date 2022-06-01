@@ -2,7 +2,7 @@
 Unity Game that simulates educational chemical experiment "Polysaccharide Detection"
 
 ###
-Its showing how to deal with gameplay situations without forcing the player with specific steps.
+Its showing how to deal with gameplay dynamic situations without forcing the player with specific direct steps.
 also showing how to use some of OOP solid principles and design patterns
 ###
 _________________________________________________________________________________________________
